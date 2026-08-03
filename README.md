@@ -52,9 +52,3 @@ Los datos viven en el iPhone. Si cambia de celular o borra la app, se pierden.
 **Respaldar:** toca *Respaldar* → se abre el menú de compartir de iOS → **Guardar en Archivos** (elige iCloud Drive) o envíatelo por correo/WhatsApp.
 
 **Restaurar:** en el iPhone nuevo, abre la app instalada → *Restaurar* → **Explorar** → busca el archivo `ciclo-….json` y ábrelo. Las fechas se agregan sin duplicar.
-
----
-
-## Actualizar la app más adelante
-
-Repositorio → `index.html` → ícono del lápiz o **Upload files** con el archivo nuevo → *Commit changes*. En 1–2 minutos la dirección sirve la versión nueva. **Los datos de ella no se tocan.**
